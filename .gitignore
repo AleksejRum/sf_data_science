@@ -128,24 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# files of projects
-ExchangeRates.txt
-dst-3.0_16_1_hh_database.txt
-countries.txt
-melb_data.txt
-students_performance.txt
-citibike-tripdata.txt
-melb_data_ps.txt
-dates.txt
-melb_data_fe.txt
-movies.txt
-orders.txt
-products.txt
-ratings_movies.txt
-ratings1.txt
-ratings2.txt
-churn.txt
-country_vaccinations.txt
-covid_data.txt
-diabetes_data.txt
-sber_data.txt
+# delete files of projects
+*.txt
