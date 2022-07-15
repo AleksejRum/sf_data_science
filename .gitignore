@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # delete files of projects
-*.txt
+dst-3.0_16_1_hh_database.txt
