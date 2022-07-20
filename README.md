@@ -2,7 +2,7 @@
 
 ## Projects
 * [Project 0. The game: Guess the number](https://github.com/AleksejRum/sf_data_science/tree/main/project_01)
-* [Project 1. ______________](___________)
+* [Project 1. Analysis of vacancies on hh.ru](___________)
 
 ## Modules
 * [Python](https://github.com/AleksejRum/sf_data_science/tree/main/Modules/Python)
