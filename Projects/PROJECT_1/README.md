@@ -39,6 +39,6 @@
 работу с данными и оформление отчетов с помощью средств python 
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами](https://github.com/AleksejRum/sf_data_science/blob/main/Projects/Project_1/PROJECT_1.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/AleksejRum/sf_data_science/blob/main/Projects/PROJECT_1/Project_1.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/AleksejRum/sf_data_science/blob/main/Projects/PROJECT_1/README.md#Оглавление)
