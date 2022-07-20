@@ -1,4 +1,4 @@
-# Project 1. Guess the number.
+# Project 0. Guess the number.
 
 ## Table of contents
 * [1. Project description](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1/README.md#Project-description)
