@@ -8,6 +8,7 @@
 
 ### Описание проекта    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
+Источник данных:(https://drive.google.com/file/d/1RjOG2hbMw1ntEZN8B0yiUEn8X4-UoVPd/view?usp=sharing) 
 
 :arrow_up:[к оглавлению](https://github.com/AleksejRum/sf_data_science/tree/main/Projects/PROJECT_1/README.md#Оглавление)
 
