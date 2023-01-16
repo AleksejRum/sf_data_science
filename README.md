@@ -10,3 +10,4 @@
 * [Python](https://github.com/AleksejRum/sf_data_science/tree/main/Modules/Python)
 * [Pandas](https://github.com/AleksejRum/sf_data_science/tree/main/Modules/Pandas)
 * [Numpy](https://github.com/AleksejRum/sf_data_science/tree/main/Modules/Numpy)
+* [ML](https://github.com/AleksejRum/sf_data_science/tree/main/Modules/ML)
